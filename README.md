@@ -1,6 +1,4 @@
-
-![](https://mir-s3-cdn-cf.behance.net/873ddeead0f27817050104065cd9a581/224f228f-1933-427c-8a78-7f852e5a5558_rwc_0x560x2560x357x2560.png?h=c1e4725de3623f0225640f451bd3c57f)
-
+![](https://yt3.googleusercontent.com/eigf8CQkjX34fgJupOA_6UO3JyrRqGciZOfBQO7YC97nCb6WKXaD364YyObx4E6WJHWqazl2=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h1 align="center">Hi 👋, I'm ABDULLAH BIN ZIAD</h1>
 <h3 align="center">Hello! Specially I'm a Frontend Web Developer with expertise in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, TypeScript, and Redux. Crafting engaging user interfaces is my forte. I also excel in building REST APIs using Express.js, and I'm proficient in MongoDB and MySQL. I bring efficiency and scalability to backend development. With experience in WordPress, Postman, Figma, Adobe XD, and Photoshop, I ensure seamless design and development collaboration.</h3>
